@@ -1,4 +1,3 @@
-import Foundation
 let studentName = "Dillyraja"
 let rollNumber: Int = 2301
 var semester: Int = 5
